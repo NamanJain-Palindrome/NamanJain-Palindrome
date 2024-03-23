@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Naman<br>⚡ Fun Fact - My first name is Palindrome<br>🌱 I’m currently learning Flutter & React<br>🔭 I’m currently working on building a personal website<br>
+👋 Hi, I'm Naman<br>⚡ Fun Fact - My first name is Palindrome<br>🌱 I’m currently learning Flutter, React & Python<br>🔭 I’m currently working on building a personal website<br>
 
 
 ## 🌐 Socials:
